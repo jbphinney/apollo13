@@ -5,5 +5,5 @@ const server = new ApolloServer({
 
 server.applyMiddleware({
   app, 
-  path: '/whowho'
+  path: 'bpapollo13.wpenginepowered.com/whowho'
 });
