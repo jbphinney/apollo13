@@ -14,4 +14,5 @@ export default setConfig({
   ],
   possibleTypes,
   templates,
+  useGETForQueries:false,
 });
